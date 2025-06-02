@@ -5,7 +5,6 @@ messagin part will be added as time goes by
 also emojis will also be introduced 
 
 
-
 **Installation**
 
 Install the project dependencies using npm:
